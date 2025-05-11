@@ -16,14 +16,9 @@ Here's a list of the current projects in this repository:
 - 🐢 **turtle_race** – Simulates a race between turtles.
 - 🎨 **turtle_random_walk_image** – Generates random walk patterns using turtles.
 - 🖌️ **turtle_sketchpad** – A simple sketchpad using turtle graphics.
+- 🌎 **usa_states_quiz** - A quiz that checks your knoledge of USA states.
 
 Feel free to explore each folder to see the code and try out the projects!
-
-## 📌 Notes
-
-- All projects are written in Python and are beginner-friendly.
-- Most projects utilize the `turtle` module for graphics.
-- No external libraries are required; Python's standard library is sufficient.
 
 ## 📄 License
 
