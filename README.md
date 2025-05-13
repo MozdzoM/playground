@@ -16,7 +16,8 @@ Here's a list of the current projects in this repository:
 - 🐢 **turtle_race** – Simulates a race between turtles.
 - 🎨 **turtle_random_walk_image** – Generates random walk patterns using turtles.
 - 🖌️ **turtle_sketchpad** – A simple sketchpad using turtle graphics.
-- 🌎 **usa_states_quiz** - A quiz that checks your knoledge of USA states.
+- 🌎 **usa_states_quiz** - A quiz that checks your knowledge of USA states.
+- 🔐 **password_manager** - A program that generates and saves you login data.
 
 Feel free to explore each folder to see the code and try out the projects!
 
