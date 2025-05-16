@@ -18,6 +18,7 @@ Here's a list of the current projects in this repository:
 - 🖌️ **turtle_sketchpad** – A simple sketchpad using turtle graphics.
 - 🌎 **usa_states_quiz** - A quiz that checks your knowledge of USA states.
 - 🔐 **password_manager** - A program that generates and saves you login data.
+- 🔖 **flashcards** - Flashcards containing ~100 of the most commonly used French words.
 
 Feel free to explore each folder to see the code and try out the projects!
 
