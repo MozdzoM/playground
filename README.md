@@ -8,7 +8,7 @@ Here's a list of the current projects in this repository:
 
 - 🎮 **pong** – A classic Pong game built with Python's `turtle` module.
 - 🐍 **sssnake_game** – A simple snake game implementation.
-- 🧠 **computer_quiz** – A basic quiz application to test your computer knowledge.
+- 🧠 **quiz_app** – An API quiz application to test your knowledge.
 - 🎲 **higher_lower** – A game where you guess if the next number is higher or lower.
 - 🔢 **num_guessing** – A number guessing game.
 - 🃏 **simplified_blackjack** – A simplified version of the Blackjack card game.
